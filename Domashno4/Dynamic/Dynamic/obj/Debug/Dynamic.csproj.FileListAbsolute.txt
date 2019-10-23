@@ -1,0 +1,10 @@
+D:\za universiteta\TSP\Domashno4\Dynamic\Dynamic\bin\Debug\Dynamic.exe.config
+D:\za universiteta\TSP\Domashno4\Dynamic\Dynamic\bin\Debug\Dynamic.exe
+D:\za universiteta\TSP\Domashno4\Dynamic\Dynamic\bin\Debug\Dynamic.pdb
+D:\za universiteta\TSP\Domashno4\Dynamic\Dynamic\obj\Debug\Dynamic.csprojAssemblyReference.cache
+D:\za universiteta\TSP\Domashno4\Dynamic\Dynamic\obj\Debug\Dynamic.Form1.resources
+D:\za universiteta\TSP\Domashno4\Dynamic\Dynamic\obj\Debug\Dynamic.Properties.Resources.resources
+D:\za universiteta\TSP\Domashno4\Dynamic\Dynamic\obj\Debug\Dynamic.csproj.GenerateResource.cache
+D:\za universiteta\TSP\Domashno4\Dynamic\Dynamic\obj\Debug\Dynamic.csproj.CoreCompileInputs.cache
+D:\za universiteta\TSP\Domashno4\Dynamic\Dynamic\obj\Debug\Dynamic.exe
+D:\za universiteta\TSP\Domashno4\Dynamic\Dynamic\obj\Debug\Dynamic.pdb

@@ -1,0 +1,10 @@
+D:\za universiteta\TSP\Domashno4\Palindrome\Palindrome\bin\Debug\Palindrome.exe.config
+D:\za universiteta\TSP\Domashno4\Palindrome\Palindrome\bin\Debug\Palindrome.exe
+D:\za universiteta\TSP\Domashno4\Palindrome\Palindrome\bin\Debug\Palindrome.pdb
+D:\za universiteta\TSP\Domashno4\Palindrome\Palindrome\obj\Debug\Palindrome.csprojAssemblyReference.cache
+D:\za universiteta\TSP\Domashno4\Palindrome\Palindrome\obj\Debug\Palindrome.Form1.resources
+D:\za universiteta\TSP\Domashno4\Palindrome\Palindrome\obj\Debug\Palindrome.Properties.Resources.resources
+D:\za universiteta\TSP\Domashno4\Palindrome\Palindrome\obj\Debug\Palindrome.csproj.GenerateResource.cache
+D:\za universiteta\TSP\Domashno4\Palindrome\Palindrome\obj\Debug\Palindrome.csproj.CoreCompileInputs.cache
+D:\za universiteta\TSP\Domashno4\Palindrome\Palindrome\obj\Debug\Palindrome.exe
+D:\za universiteta\TSP\Domashno4\Palindrome\Palindrome\obj\Debug\Palindrome.pdb

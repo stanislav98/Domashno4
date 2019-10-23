@@ -1,0 +1,10 @@
+D:\za universiteta\TSP\Domashno4\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe.config
+D:\za universiteta\TSP\Domashno4\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe
+D:\za universiteta\TSP\Domashno4\WebBrowser\WebBrowser\bin\Debug\WebBrowser.pdb
+D:\za universiteta\TSP\Domashno4\WebBrowser\WebBrowser\obj\Debug\WebBrowser.csprojAssemblyReference.cache
+D:\za universiteta\TSP\Domashno4\WebBrowser\WebBrowser\obj\Debug\WebBrowser.Form1.resources
+D:\za universiteta\TSP\Domashno4\WebBrowser\WebBrowser\obj\Debug\WebBrowser.Properties.Resources.resources
+D:\za universiteta\TSP\Domashno4\WebBrowser\WebBrowser\obj\Debug\WebBrowser.csproj.GenerateResource.cache
+D:\za universiteta\TSP\Domashno4\WebBrowser\WebBrowser\obj\Debug\WebBrowser.csproj.CoreCompileInputs.cache
+D:\za universiteta\TSP\Domashno4\WebBrowser\WebBrowser\obj\Debug\WebBrowser.exe
+D:\za universiteta\TSP\Domashno4\WebBrowser\WebBrowser\obj\Debug\WebBrowser.pdb

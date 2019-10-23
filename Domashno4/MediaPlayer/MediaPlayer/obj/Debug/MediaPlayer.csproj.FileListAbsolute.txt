@@ -1,0 +1,15 @@
+D:\za universiteta\TSP\Domashno4\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe.config
+D:\za universiteta\TSP\Domashno4\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe
+D:\za universiteta\TSP\Domashno4\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.pdb
+D:\za universiteta\TSP\Domashno4\MediaPlayer\MediaPlayer\bin\Debug\Interop.WMPLib.dll
+D:\za universiteta\TSP\Domashno4\MediaPlayer\MediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\za universiteta\TSP\Domashno4\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csprojAssemblyReference.cache
+D:\za universiteta\TSP\Domashno4\MediaPlayer\MediaPlayer\obj\Debug\Interop.WMPLib.dll
+D:\za universiteta\TSP\Domashno4\MediaPlayer\MediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\za universiteta\TSP\Domashno4\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csproj.ResolveComReference.cache
+D:\za universiteta\TSP\Domashno4\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.Form1.resources
+D:\za universiteta\TSP\Domashno4\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.Properties.Resources.resources
+D:\za universiteta\TSP\Domashno4\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.cache
+D:\za universiteta\TSP\Domashno4\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csproj.CoreCompileInputs.cache
+D:\za universiteta\TSP\Domashno4\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.exe
+D:\za universiteta\TSP\Domashno4\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.pdb
